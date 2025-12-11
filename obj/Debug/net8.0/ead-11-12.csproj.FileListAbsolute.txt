@@ -1,0 +1,14 @@
+C:\Users\159347624\Documents\ead-11-12\bin\Debug\net8.0\ead-11-12.exe
+C:\Users\159347624\Documents\ead-11-12\bin\Debug\net8.0\ead-11-12.deps.json
+C:\Users\159347624\Documents\ead-11-12\bin\Debug\net8.0\ead-11-12.runtimeconfig.json
+C:\Users\159347624\Documents\ead-11-12\bin\Debug\net8.0\ead-11-12.dll
+C:\Users\159347624\Documents\ead-11-12\bin\Debug\net8.0\ead-11-12.pdb
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.AssemblyInfoInputs.cache
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.AssemblyInfo.cs
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.csproj.CoreCompileInputs.cache
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.dll
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\refint\ead-11-12.dll
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.pdb
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.genruntimeconfig.cache
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ref\ead-11-12.dll
