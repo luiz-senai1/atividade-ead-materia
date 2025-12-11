@@ -12,3 +12,4 @@ C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\refint\ead-11-12.dll
 C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.pdb
 C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.genruntimeconfig.cache
 C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ref\ead-11-12.dll
+C:\Users\159347624\Documents\ead-11-12\obj\Debug\net8.0\ead-11-12.sourcelink.json

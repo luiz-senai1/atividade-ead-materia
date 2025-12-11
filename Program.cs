@@ -3,53 +3,18 @@
 
 using ead_11_12;
 
-List<Materia> listaMateria = new List<Materia>();
-List<Materia> listaMateriaMaior = new List<Materia>();
+Lista listaMateria = new ();
 
-Materia portugues = new();
-Materia matematica = new();
-Materia geografia = new();
-Materia historia = new();
-Materia fisica = new();
+Materia portugues = new("Português", 10);
+Materia matematica = new("Matemática", 10);
+Materia geografia = new("Geografia", 7);
+Materia historia = new("História", 8);
+Materia fisica = new("Física", 10);
 
-double maiorNota = -1;
+listaMateria.AdicionaLista(portugues);
+listaMateria.AdicionaLista(matematica);
+listaMateria.AdicionaLista(geografia);
+listaMateria.AdicionaLista(historia);
+listaMateria.AdicionaLista(fisica);
 
-portugues.Nome = "Português";
-portugues.Nota = 10;
-listaMateria.Add(portugues);
-
-matematica.Nome = "Matemática";
-matematica.Nota = 10;
-listaMateria.Add(matematica);
-
-geografia.Nome = "Geografia";
-geografia.Nota = 7;
-listaMateria.Add(geografia);
-
-historia.Nome = "História";
-historia.Nota = 8;
-listaMateria.Add(historia);
-
-fisica.Nome = "Física";
-fisica.Nota = 10;
-listaMateria.Add(fisica);
-
-foreach(var n in listaMateria)
-{
-    if (n.Nota > maiorNota)
-    {
-        maiorNota = n.Nota;
-        listaMateriaMaior.Add(n);
-    }
-    else if(n.Nota == maiorNota)
-    {
-        listaMateriaMaior.Add(n);
-    }
-}
-
-Console.WriteLine("Maiores notas:");
-
-foreach(var nM in listaMateriaMaior)
-{
-    Console.WriteLine($"{nM.Nome}, com {nM.Nota} de nota");
-}
+listaMateria.Comparacao();
